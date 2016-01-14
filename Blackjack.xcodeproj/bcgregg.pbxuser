@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {834, 734}}";
+			sepNavSelRange = "{114, 0}";
+			sepNavVisRect = "{{0, 0}, {834, 734}}";
+			sepNavWindowFrame = "{{15, 70}, {879, 863}}";
+		};
+	};
+	1C254FB2091A6AD100024688 /* blackjack.icns */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 70}, {741, 863}}";
+		};
+	};
+	1C615A640924F6710075F15F /* PreferenceController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {715, 734}}";
+			sepNavSelRange = "{479, 0}";
+			sepNavVisRect = "{{0, 0}, {715, 734}}";
+			sepNavWindowFrame = "{{15, 70}, {760, 863}}";
+		};
+	};
+	1C615A650924F6710075F15F /* PreferenceController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {715, 910}}";
+			sepNavSelRange = "{1007, 0}";
+			sepNavVisRect = "{{0, 0}, {715, 734}}";
+			sepNavWindowFrame = "{{146, 75}, {760, 863}}";
+		};
+	};
+	1C615AF4092507EB0075F15F /* AppController.m:249 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1CADD12B0915CAF10019795D /* AppController.m */;
+		functionName = "-newGame:";
+		hitCount = 1;
+		lineNumber = 249;
+		modificationTime = 173727760.713301;
+		state = 1;
+	};
+	1C615AF70925082A0075F15F /* TableView.m:16 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1CADD09E0915C64E0019795D /* TableView.m */;
+		functionName = "-drawRect:";
+		hitCount = 1;
+		lineNumber = 16;
+		modificationTime = 173727760.72585;
+		state = 1;
+	};
+	1C615AF90925082C0075F15F /* TableView.m:24 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1CADD09E0915C64E0019795D /* TableView.m */;
+		functionName = "-drawRect:";
+		hitCount = 1;
+		lineNumber = 24;
+		modificationTime = 173727760.743759;
+		state = 1;
+	};
+	1CADD09D0915C64E0019795D /* TableView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {767, 734}}";
+			sepNavSelRange = "{513, 0}";
+			sepNavVisRect = "{{0, 0}, {767, 734}}";
+			sepNavWindowFrame = "{{327, 75}, {812, 863}}";
+		};
+	};
+	1CADD09E0915C64E0019795D /* TableView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {767, 2926}}";
+			sepNavSelRange = "{4759, 0}";
+			sepNavVisRect = "{{0, 2164}, {767, 734}}";
+			sepNavWindowFrame = "{{117, 75}, {812, 863}}";
+		};
+	};
+	1CADD0B60915C8D70019795D /* 3.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 70}, {741, 863}}";
+		};
+	};
+	1CADD0C20915C8D70019795D /* 40.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{106, 67}, {741, 863}}";
+		};
+	};
+	1CADD0D80915C8D70019795D /* 2.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 70}, {741, 863}}";
+		};
+	};
+	1CADD0D90915C8D70019795D /* 6.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 70}, {741, 863}}";
+		};
+	};
+	1CADD0DF0915C8D70019795D /* b1fv.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 70}, {741, 863}}";
+		};
+	};
+	1CADD0E50915C8D70019795D /* 1.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 70}, {741, 863}}";
+		};
+	};
+	1CADD12A0915CAF10019795D /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {767, 826}}";
+			sepNavSelRange = "{415, 0}";
+			sepNavVisRect = "{{0, 0}, {767, 734}}";
+			sepNavWindowFrame = "{{54, 75}, {812, 863}}";
+		};
+	};
+	1CADD12B0915CAF10019795D /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 9142}}";
+			sepNavSelRange = "{1810, 0}";
+			sepNavVisRect = "{{0, 344}, {721, 588}}";
+			sepNavWindowFrame = "{{514, 61}, {760, 717}}";
+		};
+	};
+	1CADD24C0915FEA20019795D /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+			1C615AF4092507EB0075F15F /* AppController.m:249 */,
+			1C615AF70925082A0075F15F /* TableView.m:16 */,
+			1C615AF90925082C0075F15F /* TableView.m:24 */,
+		);
+	};
+	1CD6E22F0911D74000C24217 /* Blackjack */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Blackjack;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	1CD6E2460911D74900C24217 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	1CD6E2470911D74900C24217 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeBuildStyle = 4A9504CCFFE6A4B311CA0CBA /* Debug */;
+		activeExecutable = 1CD6E22F0911D74000C24217 /* Blackjack */;
+		activeTarget = 8D1107260486CEB800E47090 /* Blackjack */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Blackjack */,
+		);
+		breakpoints = (
+			1C615AF4092507EB0075F15F /* AppController.m:249 */,
+			1C615AF70925082A0075F15F /* TableView.m:16 */,
+			1C615AF90925082C0075F15F /* TableView.m:24 */,
+		);
+		breakpointsGroup = 1CADD24C0915FEA20019795D /* XCBreakpointsBucket */;
+		codeSenseManager = 1CD6E2470911D74900C24217 /* Code sense */;
+		executables = (
+			1CD6E22F0911D74000C24217 /* Blackjack */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					210,
+					20,
+					110,
+					109,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 173727400;
+			PBXWorkspaceStateSaveDate = 173727400;
+		};
+		sourceControlManager = 1CD6E2460911D74900C24217 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Blackjack */ = {
+		activeExec = 0;
+		executables = (
+			1CD6E22F0911D74000C24217 /* Blackjack */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 734}}";
+			sepNavSelRange = "{387, 0}";
+			sepNavVisRect = "{{0, 0}, {696, 734}}";
+			sepNavWindowFrame = "{{15, 70}, {741, 863}}";
+		};
+	};
+}
